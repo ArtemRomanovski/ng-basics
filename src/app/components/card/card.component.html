@@ -1,0 +1,14 @@
+<ul>
+	<li *ngFor="let item of card">
+		<div class="card_box">
+			<h3>{{item?.name}}</h3>
+			<p>Price: {{item?.price}} $</p>
+			<p>Address: {{item?.address.sity}}, {{item?.address.houseNumber}} {{item?.address.street}} st,
+				{{item?.address.state}}</p>
+			<p>Id: {{item?.id}}</p>
+
+			<button routerLink="card-info/{{item.id}}" (click)="getInfo(item)">More info {{item.id}}</button>
+			<!-- <button (click)="getInfo(item)">More info {{item.id}}</button> -->
+		</div>
+	</li>
+</ul> 

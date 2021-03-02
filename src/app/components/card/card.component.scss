@@ -1,0 +1,18 @@
+.card_box {
+	border: 1px solid rgb(202, 202, 202);
+	margin: .5rem;
+	padding: .5rem 1rem;
+
+	
+}
+
+ul {
+	display: flex;
+	justify-content: space-between;
+	list-style: none;
+	flex-flow: wrap;
+
+	li {
+		width: 33%;
+	}
+}

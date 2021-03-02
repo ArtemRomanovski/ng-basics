@@ -1,0 +1,86 @@
+[
+	{
+		"name": "House 1",
+		"id": "1",
+		"price": 299.999,
+		"address": {
+			"state": "CA",
+			"sity": "San Francisco",
+			"street": "Judas",
+			"houseNumber": "41"
+		},
+		"img": ""
+	},
+	{
+		"name": "House 2",
+		"id": "2",
+		"price": 450.000,
+		"address": {
+			"state": "CA",
+			"sity": "San Francisco",
+			"street": "Judas",
+			"houseNumber": "42"
+		},
+		"img": ""
+	},
+	{
+		"name": "House 3",
+		"id": "3",
+		"price": 312.000,
+		"address": {
+			"state": "CA",
+			"sity": "San Francisco",
+			"street": "Judas",
+			"houseNumber": "43"
+		},
+		"img": ""
+	},
+	{
+		"name": "House 4",
+		"id": "4",
+		"price": 312.000,
+		"address": {
+			"state": "CA",
+			"sity": "San Francisco",
+			"street": "Judas",
+			"houseNumber": "43"
+		},
+		"img": ""
+	},
+	{
+		"name": "House 5",
+		"id": "5",
+		"price": 312.000,
+		"address": {
+			"state": "CA",
+			"sity": "San Francisco",
+			"street": "Judas",
+			"houseNumber": "43"
+		},
+		"img": ""
+	},
+	{
+		"name": "House 6",
+		"id": "6",
+		"price": 312.000,
+		"address": {
+			"state": "CA",
+			"sity": "San Francisco",
+			"street": "Judas",
+			"houseNumber": "43"
+		},
+		"img": ""
+	},
+	{
+		"name": "House 7",
+		"id": "7",
+		"price": 312.000,
+		"address": {
+			"state": "CA",
+			"sity": "San Francisco",
+			"street": "Judas",
+			"houseNumber": "43"
+		},
+		"img": ""
+	}
+]
